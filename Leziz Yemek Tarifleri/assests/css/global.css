@@ -1,7 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
 ul{
     list-style-type: none;
 }
 a{
     text-decoration: none;
-    color: cornflowerblue;
+  /* color: #f2f5fa; */
 }
+
+.text-center {
+    text-align: center;
+  }
+  
+  .heading-small {
+    font-size: 1.25rem;
+  }
+  .heading-medium {
+    font-size: 1.5rem;
+  }
+  .heading-big {
+    font-size: 1.75rem;
+  }
+  /* Colors */
+
+.bg-primary{
+    background: #cc2e38;
+  }
+  .bg-secondary {
+    background: #f89526;
+  }
+  .bg-tertiary {
+    background: #f2f5fa;
+  }
