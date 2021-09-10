@@ -36,3 +36,20 @@ a{
   .bg-tertiary {
     background: #f2f5fa;
   }
+.btn{
+  margin-top: 1.25rem;
+  padding: 0.8rem 2rem;
+  border-radius: 0.7rem;
+  letter-spacing: 0.5px;
+  border-radius: 1px solid white;
+}
+.btn-primary {
+  background: #cc2e38;
+  color:#fff;
+  font-weight: 700;
+}
+.btn-primary:hover {
+  color: #cc2e38;
+  background: #fff;
+  border: 2px solid #cc2e38;
+}

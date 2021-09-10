@@ -46,7 +46,7 @@ margin: 1rem auto;
 
 /* Trends */
 
-#trends{
+#trends, #videos, #new-meal,#author {
     width: 80%;
     height: auto;
     margin: 0 auto;
@@ -64,6 +64,15 @@ margin: 1rem auto;
     margin: 1rem;
 
 }
+/* --Button-- */
+.button{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* Videolu tarfler */
+
 
 /* 
 span{
