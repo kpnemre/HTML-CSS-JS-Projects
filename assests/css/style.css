@@ -5,6 +5,13 @@
     font-family: 'Open Sans', sans-serif;
 
 }
+a{
+    text-decoration: none;
+   
+}
+ul{
+    list-style-type:circle;
+}
 header{
     width: 90%;
     /* height: auto; */

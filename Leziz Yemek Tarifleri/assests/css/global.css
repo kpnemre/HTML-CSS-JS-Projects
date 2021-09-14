@@ -47,9 +47,21 @@ a{
   background: #cc2e38;
   color:#fff;
   font-weight: 700;
+  margin: 1rem;
 }
 .btn-primary:hover {
   color: #cc2e38;
   background: #fff;
   border: 2px solid #cc2e38;
+}
+.btn-secondary {
+  background: #f89526;
+  color:#fff;
+  font-weight: 700;
+  margin: 1rem;
+}
+.btn-secondary:hover {
+  color: #f89526;
+  background: #fff;
+  border: 2px solid #f89526;
 }
