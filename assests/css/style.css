@@ -31,18 +31,18 @@ header h1{
 .card {
     display: flex;
     flex-direction:column;
-    width: 25%;
+    width: 20rem;
     margin: 1rem;
 }
 
 img{
     border-radius: 0.5rem;
-    width: 24vw;
+    width: 18rem;
     height:auto ;
 margin: 0.5rem 0;
 }
 img:hover{
-    width: 25vw;
+    width: 19rem;
 }
 .card projectinfo{
 display: flex;
